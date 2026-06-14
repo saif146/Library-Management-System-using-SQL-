@@ -6,6 +6,11 @@
 **Level**: Intermediate  
 **Database**: `library_project`
 
+## Technologies Used
+- PostgreSQL
+- pgAdmin 4
+- SQL
+
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
 ![Library_project](https://github.com/saif146/Library-Management-System-using-SQL-/blob/main/library.jpg.png)
